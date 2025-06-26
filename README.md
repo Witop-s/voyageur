@@ -41,6 +41,10 @@ python3 main.py --taille_circuit 40 --taille_pop 20 --generations 1000
 | `--generations`      | Nombre de générations                         | `500`                |
 | `--seed`             | Graine pour l’aléatoire                       | `712`                |
 
+## Autre
+
+Les labs 1 et 4 sont disponibles dans le dossier ./lab1-4 sous forme de notebooks Jupyter
+
 ## Données & Ressources
 
 - https://cours-info.iut-bm.univ-fcomte.fr/upload/supports/S6/TechOpt/2024-2025/cours-P5.pdf  
