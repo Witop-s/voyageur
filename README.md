@@ -45,3 +45,5 @@ python3 main.py --taille_circuit 40 --taille_pop 20 --generations 1000
 
 - https://cours-info.iut-bm.univ-fcomte.fr/upload/supports/S6/TechOpt/2024-2025/cours-P5.pdf  
 - https://simplemaps.com/data/world-cities
+
+Noah NICOLAS - IUT Nord Franche Comté - BUT3 ALT – 2025
